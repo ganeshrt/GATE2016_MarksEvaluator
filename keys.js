@@ -7,7 +7,7 @@ function about(){
 }
 
 window.set1 = {
-	"g01": ["D", "http://gateoverflow.in/39608/gate-2016-1-ga01"],
+	"g01": ["A", "http://gateoverflow.in/39608/gate-2016-1-ga01"],
 	"g02": ["A", "http://gateoverflow.in/39607/gate-2016-1-ga02"],
 	"g03": ["A", "http://gateoverflow.in/39606/gate-2016-1-ga03"],
 	"g04": ["C", "http://gateoverflow.in/39609/gate-2016-1-ga04"],
